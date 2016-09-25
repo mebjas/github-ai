@@ -1,0 +1,3 @@
+issue classifier/data/simple-issue-standard-label-json.json
+issue classifier/data/testset.json
+*.pyc
